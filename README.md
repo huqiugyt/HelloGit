@@ -1,4 +1,3 @@
-# HelloGit
-This is a github test repository.
+# Hello Git
 
-Add a new line to the new branch...
+Rewrite all the materials in this Readme File.
