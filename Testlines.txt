@@ -1,6 +1,1 @@
-Some test lines 1.
-Some test lines 2.
-Some test lines 3.
-Some test lines 4.
-
-Add a new line to the Testlines.txt...
+Delete all the lines in the Testlines.txt
